@@ -1,21 +1,22 @@
 # Ethan Nguyen
 
-AI/ML engineer at Google working on Gemini. I build at the systems layer between model capability and deployed value: infrastructure, evaluation, reliability, interfaces, and operational trust.
+AI/ML engineer at Google Public Sector working on the systems that translate frontier AI capability into trusted operational value: infrastructure, evaluation, reliability, interfaces, and operational trust.
 
-My current focus is **frontier AI systems for high-trust deployment**.
+My current focus is **frontier AI systems for high-trust operations**.
 
 ## Public builds
 
 - **[ATO Copilot](https://github.com/EthanHNguyen/ato-copilot)** — source-backed AI prototype for government authorization workflows.
 - **[RFP Map](https://github.com/EthanHNguyen/rfp-map)** — mobile-first SAM.gov market intelligence radar.
+- **[FieldDesk](https://github.com/EthanHNguyen/FieldDesk)** — offline-first field operations concept for high-trust mission workflows.
 - **[Personal site](https://ethanhn.com)** — project notes, writing, publications, and selected public builds.
 
 ## What I care about
 
-- model capability becoming deployed value
+- model capability becoming operational value
 - reliable AI systems under real constraints
 - evidence-native workflows for high-trust environments
-- observability and model-serving infrastructure
+- evaluation, observability, and model-serving infrastructure
 - public-data interfaces for market and institutional sensemaking
 
 ## Links
