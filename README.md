@@ -4,10 +4,17 @@ AI/ML engineer at Google Public Sector working on the systems that translate fro
 
 My current focus is **frontier AI systems for high-trust operations**.
 
+## Proof base
+
+- **Google Public Sector** — frontier AI systems for high-trust environments
+- **Capital One** — ML/cloud platforms used by thousands of practitioners
+- **Vanderbilt** — peer-reviewed ML research in computer vision and medical image analysis
+
 ## Public builds
 
 - **[ATO Copilot](https://github.com/EthanHNguyen/ato-copilot)** — source-backed AI prototype for government authorization workflows.
 - **[RFP Map](https://github.com/EthanHNguyen/rfp-map)** — mobile-first SAM.gov market intelligence radar.
+- **[Local AI Lab](https://github.com/EthanHNguyen/local-ai-lab)** — local AI infrastructure lab for model serving, observability, and deployment experiments.
 - **[FieldDesk](https://github.com/EthanHNguyen/FieldDesk)** — offline-first field operations concept for high-trust mission workflows.
 - **[Personal site](https://ethanhn.com)** — project notes, writing, publications, and selected public builds.
 
