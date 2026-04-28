@@ -1,6 +1,8 @@
 # Ethan Nguyen
 
-AI/ML engineer at Google Public Sector working on the systems that translate frontier AI capability into trusted operational value: infrastructure, evaluation, reliability, interfaces, and operational trust.
+I build systems that translate frontier AI capability into trusted operational value.
+
+I’m an AI/ML engineer at Google Public Sector working across infrastructure, evaluation, reliability, interfaces, and operational trust.
 
 My current focus is **frontier AI systems for high-trust operations**.
 
